@@ -2,6 +2,10 @@
 
 包含了三個不同主題的示範應用，展示了使用原生 JavaScript、jQuery 和 Vue.js 等不同技術實現相同功能的方法。
 
+## DEMO
+
+[直接看DEMO - 索引頁面](https://lucashsu95.github.io/2025-web-design-training/)
+
 ##  專案結構
 
 ```
